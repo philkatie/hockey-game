@@ -1,10 +1,15 @@
-import React from 'react';
+import { Autocomplete, TextField } from '@mui/material';
+import playerData from './Data/playerData';
 
 function PlayerSearch() {
   return (
-    <div>
-      Player Search
-    </div>
+    <Autocomplete
+      disablePortal
+      options={playerData}
+      getOptionLabel={(option) => option.name} 
+      sx={{width:300}}
+      renderInput={(params) => <TextField {...params} label="Player" />}
+    />
   )
 };
 

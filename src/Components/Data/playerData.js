@@ -1,4 +1,4 @@
-[
+const playerData = [
   {
     "name": "Sidney Crosby",
     "debut_season": 2005,
@@ -250,3 +250,5 @@
     "position": "Left Wing"
   }
 ]
+
+export default playerData;
