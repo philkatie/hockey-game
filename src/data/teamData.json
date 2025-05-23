@@ -1,0 +1,272 @@
+[
+  {
+    "team_name": "Anaheim Ducks",
+    "founding_date": 1993,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": 2007,
+    "stanley_cups": 1,
+    "previous_identities": ["Mighty Ducks of Anaheim (1993–2006)"]
+  },
+  {
+    "team_name": "Arizona Coyotes",
+    "founding_date": 1972,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": ["Winnipeg Jets (1972–1996)"]
+  },
+  {
+    "team_name": "Boston Bruins",
+    "founding_date": 1924,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 2011,
+    "stanley_cups": 6,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Buffalo Sabres",
+    "founding_date": 1970,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Calgary Flames",
+    "founding_date": 1972,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": 1989,
+    "stanley_cups": 1,
+    "previous_identities": ["Atlanta Flames (1972–1980)"]
+  },
+  {
+    "team_name": "Carolina Hurricanes",
+    "founding_date": 1972,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 2006,
+    "stanley_cups": 1,
+    "previous_identities": ["New England Whalers (1972–1979)", "Hartford Whalers (1979–1997)"]
+  },
+  {
+    "team_name": "Chicago Blackhawks",
+    "founding_date": 1926,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": 2015,
+    "stanley_cups": 6,
+    "previous_identities": ["Chicago Black Hawks (1926–1986)"]
+  },
+  {
+    "team_name": "Colorado Avalanche",
+    "founding_date": 1972,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": 2022,
+    "stanley_cups": 3,
+    "previous_identities": ["Quebec Nordiques (1972–1995)"]
+  },
+  {
+    "team_name": "Columbus Blue Jackets",
+    "founding_date": 2000,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Dallas Stars",
+    "founding_date": 1967,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": 1999,
+    "stanley_cups": 1,
+    "previous_identities": ["Minnesota North Stars (1967–1993)"]
+  },
+  {
+    "team_name": "Detroit Red Wings",
+    "founding_date": 1926,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 2008,
+    "stanley_cups": 11,
+    "previous_identities": ["Detroit Cougars (1926–1930)", "Detroit Falcons (1930–1932)"]
+  },
+  {
+    "team_name": "Edmonton Oilers",
+    "founding_date": 1972,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": 1990,
+    "stanley_cups": 5,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Florida Panthers",
+    "founding_date": 1993,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 2024,
+    "stanley_cups": 1,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Los Angeles Kings",
+    "founding_date": 1967,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": 2014,
+    "stanley_cups": 2,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Minnesota Wild",
+    "founding_date": 2000,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Montreal Canadiens",
+    "founding_date": 1909,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 1993,
+    "stanley_cups": 24,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Nashville Predators",
+    "founding_date": 1998,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "New Jersey Devils",
+    "founding_date": 1974,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 2003,
+    "stanley_cups": 3,
+    "previous_identities": ["Kansas City Scouts (1974–1976)", "Colorado Rockies (1976–1982)"]
+  },
+  {
+    "team_name": "New York Islanders",
+    "founding_date": 1972,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 1983,
+    "stanley_cups": 4,
+    "previous_identities": []
+  },
+  {
+    "team_name": "New York Rangers",
+    "founding_date": 1926,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 1994,
+    "stanley_cups": 4,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Ottawa Senators",
+    "founding_date": 1992,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Philadelphia Flyers",
+    "founding_date": 1967,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 1975,
+    "stanley_cups": 2,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Pittsburgh Penguins",
+    "founding_date": 1967,
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "last_stanley_cup_win": 2017,
+    "stanley_cups": 5,
+    "previous_identities": []
+  },
+  {
+    "team_name": "San Jose Sharks",
+    "founding_date": 1991,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Seattle Kraken",
+    "founding_date": 2021,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  },
+  {
+    "team_name": "St. Louis Blues",
+    "founding_date": 1967,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": 2019,
+    "stanley_cups": 1,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Tampa Bay Lightning",
+    "founding_date": 1992,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 2021,
+    "stanley_cups": 3,
+    "previous_identities": []
+  },
+  {
+    "team_name": "Toronto Maple Leafs",
+    "founding_date": 1917,
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "last_stanley_cup_win": 1967,
+    "stanley_cups": 13,
+    "previous_identities": ["Toronto Arenas (1917–1919)", "Toronto St. Patricks (1919–1927)"]
+  },
+  {
+    "team_name": "Utah Hockey Club",
+    "founding_date": 2024,
+    "conference": "Western",
+    "division": "Central",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": ["Arizona Coyotes (1996–2023)", "Winnipeg Jets (1972–1996)"]
+  },
+  {
+    "team_name": "Vancouver Canucks",
+    "founding_date": 1970,
+    "conference": "Western",
+    "division": "Pacific",
+    "last_stanley_cup_win": null,
+    "stanley_cups": 0,
+    "previous_identities": []
+  }
+]

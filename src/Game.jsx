@@ -1,6 +1,6 @@
 import React from 'react';
 import PlayerSearch from './PlayerSearch';
-import PlayerCard from './PlayerCard';
+import PlayerCard from './Components/PlayerCard';
 
 function Game() {
   return (
