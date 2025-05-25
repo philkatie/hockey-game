@@ -1,15 +1,21 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import PlayerSearch from './Components/PlayerSearch';
 import PlayerCard from './Components/PlayerCard';
 import playerData from './data/playerData';
 
-function Game({ players }) {
+function Game() {
     const [selectedPlayer, setSelectedPlayer] = useState(null);
 
-    const handlePlayerSelect = (playerName) => {
-        const foundPlayer = playerData.find(p => p.name === playerName.name);
+    const handlePlayerSelect = (playerObject) => {
+        if (!playerObject) {
+            setSelectedPlayer(null);
+            console.log('Player cleared');
+            return;
+        }
+
+        const foundPlayer = playerData.find(p => p.name === playerObject.name);
         setSelectedPlayer(foundPlayer || null);
-        console.log(playerName.name);
+        console.log(playerObject.name);
     };
 
   return (
