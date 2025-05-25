@@ -1,16 +1,17 @@
 import { Autocomplete, TextField } from '@mui/material';
-import playerData from './Data/playerData';
 
-function PlayerSearch() {
+function PlayerSearch({ players, selectedPlayer, onSelectPlayer }) {
   return (
     <Autocomplete
       disablePortal
-      options={playerData}
-      getOptionLabel={(option) => option.name} 
-      sx={{width:300}}
+      options={players}
+      getOptionLabel={(option) => option.name}
+      value={selectedPlayer}
+      onChange={(e, newValue) => onSelectPlayer(newValue)}
+      sx={{ width: 300 }}
       renderInput={(params) => <TextField {...params} label="Player" />}
     />
-  )
-};
+  );
+}
 
 export default PlayerSearch;

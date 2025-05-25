@@ -7,7 +7,8 @@ const playerData = [
     "seasons_played": 20,
     "status": "Active",
     "jersey_number": 87,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Alex Ovechkin",
@@ -17,7 +18,8 @@ const playerData = [
     "seasons_played": 20,
     "status": "Active",
     "jersey_number": 8,
-    "position": "Left Wing"
+    "position": "Left Wing",
+    "nationality": "Russia"
   },
   {
     "name": "Jaromír Jágr",
@@ -27,7 +29,8 @@ const playerData = [
     "seasons_played": 24,
     "status": "Retired",
     "jersey_number": 68,
-    "position": "Right Wing"
+    "position": "Right Wing",
+    "nationality": "Czech Republic"
   },
   {
     "name": "Mark Messier",
@@ -37,7 +40,8 @@ const playerData = [
     "seasons_played": 25,
     "status": "Retired",
     "jersey_number": 11,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Joe Nieuwendyk",
@@ -47,7 +51,8 @@ const playerData = [
     "seasons_played": 20,
     "status": "Retired",
     "jersey_number": 25,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Patrick Marleau",
@@ -57,7 +62,8 @@ const playerData = [
     "seasons_played": 23,
     "status": "Retired",
     "jersey_number": 12,
-    "position": "Centre / Left Wing"
+    "position": "Centre / Left Wing",
+    "nationality": "Canada"
   },
   {
     "name": "Marc-André Fleury",
@@ -67,7 +73,8 @@ const playerData = [
     "seasons_played": 22,
     "status": "Retired",
     "jersey_number": 29,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "Canada"
   },
   {
     "name": "Macklin Celebrini",
@@ -77,7 +84,8 @@ const playerData = [
     "seasons_played": 1,
     "status": "Active",
     "jersey_number": 71,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Lane Hutson",
@@ -87,7 +95,8 @@ const playerData = [
     "seasons_played": 1,
     "status": "Active",
     "jersey_number": 20,
-    "position": "Defenseman"
+    "position": "Defenseman",
+    "nationality": "USA"
   },
   {
     "name": "Dustin Wolf",
@@ -97,7 +106,8 @@ const playerData = [
     "seasons_played": 1,
     "status": "Active",
     "jersey_number": 32,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "USA"
   },
   {
     "name": "Matty Beniers",
@@ -107,7 +117,8 @@ const playerData = [
     "seasons_played": 3,
     "status": "Active",
     "jersey_number": 10,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "USA"
   },
   {
     "name": "Alexander Georgiev",
@@ -117,7 +128,8 @@ const playerData = [
     "seasons_played": 8,
     "status": "Active",
     "jersey_number": 40,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "Russia"
   },
   {
     "name": "Derek Grant",
@@ -127,7 +139,8 @@ const playerData = [
     "seasons_played": 10,
     "status": "Active",
     "jersey_number": 38,
-    "position": "Forward"
+    "position": "Forward",
+    "nationality": "Canada"
   },
   {
     "name": "Matthew Robertson",
@@ -137,7 +150,8 @@ const playerData = [
     "seasons_played": 1,
     "status": "Active",
     "jersey_number": 88,
-    "position": "Defenseman"
+    "position": "Defenseman",
+    "nationality": "Canada"
   },
   {
     "name": "Connor McDavid",
@@ -147,7 +161,8 @@ const playerData = [
     "seasons_played": 10,
     "status": "Active",
     "jersey_number": 97,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Nathan MacKinnon",
@@ -157,7 +172,8 @@ const playerData = [
     "seasons_played": 12,
     "status": "Active",
     "jersey_number": 29,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Carey Price",
@@ -167,7 +183,8 @@ const playerData = [
     "seasons_played": 15,
     "status": "Retired",
     "jersey_number": 31,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "Canada"
   },
   {
     "name": "Zdeno Chára",
@@ -177,7 +194,8 @@ const playerData = [
     "seasons_played": 24,
     "status": "Retired",
     "jersey_number": 33,
-    "position": "Defenseman"
+    "position": "Defenseman",
+    "nationality": "Slovakia"
   },
   {
     "name": "Jonathan Toews",
@@ -187,7 +205,8 @@ const playerData = [
     "seasons_played": 15,
     "status": "Retired",
     "jersey_number": 19,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Henrik Lundqvist",
@@ -197,7 +216,8 @@ const playerData = [
     "seasons_played": 15,
     "status": "Retired",
     "jersey_number": 30,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "Sweden"
   },
   {
     "name": "Steven Stamkos",
@@ -207,7 +227,8 @@ const playerData = [
     "seasons_played": 17,
     "status": "Active",
     "jersey_number": 91,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Canada"
   },
   {
     "name": "Erik Karlsson",
@@ -217,7 +238,8 @@ const playerData = [
     "seasons_played": 16,
     "status": "Active",
     "jersey_number": 65,
-    "position": "Defenseman"
+    "position": "Defenseman",
+    "nationality": "Sweden"
   },
   {
     "name": "Anze Kopitar",
@@ -227,7 +249,8 @@ const playerData = [
     "seasons_played": 19,
     "status": "Active",
     "jersey_number": 11,
-    "position": "Centre"
+    "position": "Centre",
+    "nationality": "Slovenia"
   },
   {
     "name": "Pekka Rinne",
@@ -237,7 +260,8 @@ const playerData = [
     "seasons_played": 15,
     "status": "Retired",
     "jersey_number": 35,
-    "position": "Goaltender"
+    "position": "Goaltender",
+    "nationality": "Finland"
   },
   {
     "name": "Jamie Benn",
@@ -247,7 +271,8 @@ const playerData = [
     "seasons_played": 16,
     "status": "Active",
     "jersey_number": 14,
-    "position": "Left Wing"
+    "position": "Left Wing",
+    "nationality": "Canada"
   }
 ]
 
