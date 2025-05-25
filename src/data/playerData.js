@@ -1,5 +1,6 @@
 const playerData = [
   {
+    "id": 1,
     "name": "Sidney Crosby",
     "debut_season": 2005,
     "draft_number": 1,
@@ -11,6 +12,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 2,
     "name": "Alex Ovechkin",
     "debut_season": 2005,
     "draft_number": 1,
@@ -22,6 +24,7 @@ const playerData = [
     "nationality": "Russia"
   },
   {
+    "id": 3,
     "name": "Jaromír Jágr",
     "debut_season": 1990,
     "draft_number": 5,
@@ -33,6 +36,7 @@ const playerData = [
     "nationality": "Czech Republic"
   },
   {
+    "id": 4,
     "name": "Mark Messier",
     "debut_season": 1979,
     "draft_number": 48,
@@ -44,6 +48,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 5,
     "name": "Joe Nieuwendyk",
     "debut_season": 1987,
     "draft_number": 27,
@@ -55,6 +60,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 6,
     "name": "Patrick Marleau",
     "debut_season": 1997,
     "draft_number": 2,
@@ -66,6 +72,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 7,
     "name": "Marc-André Fleury",
     "debut_season": 2003,
     "draft_number": 1,
@@ -77,6 +84,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 8,
     "name": "Macklin Celebrini",
     "debut_season": 2024,
     "draft_number": 1,
@@ -88,6 +96,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 9,
     "name": "Lane Hutson",
     "debut_season": 2024,
     "draft_number": 62,
@@ -99,6 +108,7 @@ const playerData = [
     "nationality": "USA"
   },
   {
+    "id": 10,
     "name": "Dustin Wolf",
     "debut_season": 2024,
     "draft_number": 214,
@@ -110,6 +120,7 @@ const playerData = [
     "nationality": "USA"
   },
   {
+    "id": 11,
     "name": "Matty Beniers",
     "debut_season": 2022,
     "draft_number": 2,
@@ -121,6 +132,7 @@ const playerData = [
     "nationality": "USA"
   },
   {
+    "id": 12,
     "name": "Alexander Georgiev",
     "debut_season": 2017,
     "draft_number": "Undrafted",
@@ -132,6 +144,7 @@ const playerData = [
     "nationality": "Russia"
   },
   {
+    "id": 13,
     "name": "Derek Grant",
     "debut_season": 2013,
     "draft_number": 119,
@@ -143,6 +156,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 14,
     "name": "Matthew Robertson",
     "debut_season": 2025,
     "draft_number": 49,
@@ -154,6 +168,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 15,
     "name": "Connor McDavid",
     "debut_season": 2015,
     "draft_number": 1,
@@ -165,6 +180,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 16,
     "name": "Nathan MacKinnon",
     "debut_season": 2013,
     "draft_number": 1,
@@ -176,6 +192,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 17,
     "name": "Carey Price",
     "debut_season": 2007,
     "draft_number": 5,
@@ -187,6 +204,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 18,
     "name": "Zdeno Chára",
     "debut_season": 1997,
     "draft_number": 56,
@@ -198,6 +216,7 @@ const playerData = [
     "nationality": "Slovakia"
   },
   {
+    "id": 19,
     "name": "Jonathan Toews",
     "debut_season": 2007,
     "draft_number": 3,
@@ -209,6 +228,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 20,
     "name": "Henrik Lundqvist",
     "debut_season": 2005,
     "draft_number": 205,
@@ -220,6 +240,7 @@ const playerData = [
     "nationality": "Sweden"
   },
   {
+    "id": 21,
     "name": "Steven Stamkos",
     "debut_season": 2008,
     "draft_number": 1,
@@ -231,6 +252,7 @@ const playerData = [
     "nationality": "Canada"
   },
   {
+    "id": 22,
     "name": "Erik Karlsson",
     "debut_season": 2009,
     "draft_number": 15,
@@ -242,6 +264,7 @@ const playerData = [
     "nationality": "Sweden"
   },
   {
+    "id": 23,
     "name": "Anze Kopitar",
     "debut_season": 2006,
     "draft_number": 11,
@@ -253,6 +276,7 @@ const playerData = [
     "nationality": "Slovenia"
   },
   {
+    "id": 24,
     "name": "Pekka Rinne",
     "debut_season": 2005,
     "draft_number": 258,
@@ -264,6 +288,7 @@ const playerData = [
     "nationality": "Finland"
   },
   {
+    "id": 25,
     "name": "Jamie Benn",
     "debut_season": 2009,
     "draft_number": 129,

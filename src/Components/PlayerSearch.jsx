@@ -5,8 +5,8 @@ function PlayerSearch({ players, selectedPlayer, onSelectPlayer }) {
     <Autocomplete
       disablePortal
       options={players}
-      getOptionLabel={(option) => option.name}
-      value={selectedPlayer}
+      getOptionLabel={(option) => option?.name || ''}
+      value={selectedPlayer || null}
       onChange={(e, newValue) => onSelectPlayer(newValue)}
       sx={{
         width: 300,
@@ -37,6 +37,7 @@ function PlayerSearch({ players, selectedPlayer, onSelectPlayer }) {
           color: '#2ecc71',
         },
       }}
+      isOptionEqualToValue={(option, value) => option.id === value.id}
       renderInput={(params) => <TextField {...params} label="Player" />}
     />
   );

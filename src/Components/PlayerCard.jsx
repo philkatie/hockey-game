@@ -1,6 +1,6 @@
 import InfoCard from './InfoCard';
 
-const PlayerCard = ({ player }) => {
+const PlayerCard = ({ player, correctPlayer }) => {
   if (!player) return <div>Select a player to view their information.</div>;
 
   return (
@@ -17,12 +17,12 @@ const PlayerCard = ({ player }) => {
           margin: '0 auto',
         }}
       >
-        <InfoCard label="Status" value={player.status} />
-        <InfoCard label="Position" value={player.position} />
-        <InfoCard label="Jersey #" value={player.jersey_number} />
-        <InfoCard label="Seasons Played" value={player.seasons_played} />
-        <InfoCard label="Nationality" value={player.nationality} />
-        <InfoCard label="Team" value={player.team_most_seasons} />
+        <InfoCard label="Status" value={player.status} correctValue={correctPlayer?.status} />
+        <InfoCard label="Position" value={player.position} correctValue={correctPlayer?.position} />
+        <InfoCard label="Jersey #" value={player.jersey_number} correctValue={correctPlayer?.jersey_number} />
+        <InfoCard label="Seasons Played" value={player.seasons_played} correctValue={correctPlayer?.seasons_played} />
+        <InfoCard label="Nationality" value={player.nationality} correctValue={correctPlayer?.nationality} />
+        <InfoCard label="Team" value={player.team_most_seasons} correctValue={correctPlayer?.team_most_seasons} />
       </div>
     </div>
   );
